@@ -1,7 +1,7 @@
 """
 Arena 3D - Shooter en Python
 Requiere: pip install pygame
-Ejecutar: python shooter.py
+Ejecutar: python comienzo.py
 
 Controles:
   WASD       - Moverse
